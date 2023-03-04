@@ -14,7 +14,6 @@ const AddTodoForm = () => {
             }
         ))
 	};
-
 	return (
 		<form onSubmit={onSubmit} className='form-inline mt-3 mb-3'>
 			<label className='sr-only'>Name</label>

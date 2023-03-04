@@ -5,4 +5,4 @@ const TotalCompleteItems = () => {
 	return <h4 className='mt-3'>Completed: {completedTodo.length} hello</h4>;
 };
 
-export default TotalCompleteItems;
+export default TotalCompleteItems;  
